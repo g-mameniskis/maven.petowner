@@ -1,16 +1,16 @@
 # Project Title
 
-* **Objective** - To create a product...
-* **Purpose** - To gain familiarity the following features...
+* **Objective** - To create a `Leon` which is a `Person` and `PetOwner`.
+* **Purpose** - To gain familiarity inheritance and composition
 
 
 
 
 ## Objective
 
-#### Part 1 - ...
+#### Instructions
 * Ensure that all test cases in `com.github.curriculeon` pass with 100% success rate. 
-
+ 
 
 
 
