@@ -4,18 +4,25 @@ package com.github.perschola;
  * Created by leon on 12/17/2019.
  */
 public class Person {
-    public Person() {
 
+    private String firstName;
+    private String lastName;
+
+    public Person() {
+        this.firstName = "";
+        this.lastName = "";
     }
 
     public Person(String firstName, String lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
     }
 
     public String getFirstName() {
-        return null;
+        return this.firstName;
     }
 
     public String getLastName() {
-        return null;
+        return this.lastName;
     }
 }
