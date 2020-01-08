@@ -15,3 +15,13 @@ public class PetOwner extends Person{
         return pet;
     }
 }
+
+// Hypothetical ~~~>
+
+// Why create a Leon class when you can create an instance of PetOwner named 'Leon'?
+
+// PetOwner leon = new PetOwner();
+//      leon.setFirstName("");
+//      leon.setLastName("");
+
+// is it because an instance of PetOwner can't "have-a" instance of Pet?
